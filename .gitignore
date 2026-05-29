@@ -1,0 +1,14 @@
+/target/
+*.log
+.env
+.env.*
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.bak
+*.img
+*.qcow2
+*.vhd
+*.vhdx
+*.iso
