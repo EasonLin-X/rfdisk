@@ -29,7 +29,7 @@ Windows is only used as a development environment for this repository.
 
 ## Install
 
-After publishing a GitHub Release, friends can install rfdisk with one command:
+friends can install rfdisk with one command:
 
 ```sh
 curl -fsSL https://raw.githubusercontent.com/EasonLin-X/rfdisk/main/install.sh | sh
