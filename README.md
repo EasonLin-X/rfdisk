@@ -29,7 +29,7 @@ Windows 仅作为本仓库的开发环境。
 
 ## 安装
 
-发布 GitHub Release 后，可以用一行命令安装 rfdisk：
+可以用一行命令安装 rfdisk：
 
 ```sh
 curl -fsSL https://raw.githubusercontent.com/EasonLin-X/rfdisk/main/install.sh | sh
